@@ -1,4 +1,7 @@
 *.tif
+*.png
+*.jpg
+*.gif
 .env
 data/
 __pycache__/
